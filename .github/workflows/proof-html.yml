@@ -1,7 +1,7 @@
 
 name: Proof HTML
 on:
-  push:[ gh-pages ]
+  push:
   workflow_dispatch:
 jobs:
   build:
